@@ -24,7 +24,7 @@
 
 ### Задание 1
 
-[Cсылкак на commit](https://github.com/VVEREW01F/homeworks/commit/da2318a34a2898b093f29fea51f8d773e1ba5832)
+[Cсылка на commit](https://github.com/VVEREW01F/homeworks/commit/da2318a34a2898b093f29fea51f8d773e1ba5832)
 
 
 
@@ -50,5 +50,5 @@
 [Ссылка на graph](https://github.com/VVEREW01F/homeworks/network)
 
 
-![Скриншот-6](https://github.com/VVEREW01F/homework-Git/blob/main/img/scr6.png)`
-![Скриншот-7](https://github.com/VVEREW01F/homework-Git/blob/main/img/scr7.png)`
+![Скриншот-6](https://github.com/VVEREW01F/homework-Git/blob/main/img/scr6.png)
+![Скриншот-7](https://github.com/VVEREW01F/homework-Git/blob/main/img/scr7.png)
