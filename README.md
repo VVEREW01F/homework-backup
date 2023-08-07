@@ -24,31 +24,5 @@
 
 ### Задание 1
 
-[Cсылка на commit](https://github.com/VVEREW01F/homeworks/commit/da2318a34a2898b093f29fea51f8d773e1ba5832)
 
-
-
-![Скриншот-1](https://github.com/VVEREW01F/homework-Git/blob/main/img/scr1.png)
-![Скриншот-2](https://github.com/VVEREW01F/homework-Git/blob/main/img/scr2.png)
-![Скриншот-3](https://github.com/VVEREW01F/homework-Git/blob/main/img/scr3.png)
-
-
----
-
-### Задание 2
-
-[Ссылка на commit](https://github.com/VVEREW01F/homeworks/commit/9012e125d86531b6ee45688c8fa9325b949ffb22)
-
-![Скриншот-4](https://github.com/VVEREW01F/homework-Git/blob/main/img/scr4.png)
-![Скриншот-5](https://github.com/VVEREW01F/homework-Git/blob/main/img/scr5.png)
-
-
----
-
-### Задание 3
-
-[Ссылка на graph](https://github.com/VVEREW01F/homeworks/network)
-
-
-![Скриншот-6](https://github.com/VVEREW01F/homework-Git/blob/main/img/scr6.png)
-![Скриншот-7](https://github.com/VVEREW01F/homework-Git/blob/main/img/scr7.png)
+![Скриншот-1](https://github.com/VVEREW01F/homework-Git/blob/main/img/scr1.PNG)
