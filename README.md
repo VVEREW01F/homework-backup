@@ -25,4 +25,4 @@
 ### Задание 1
 
 
-![Скриншот-1](https://github.com/VVEREW01F/homework-monitoring/tree/main/img/scr1.PNG)
+![Скриншот-1](https://github.com/VVEREW01F/homework-monitoring/blob/main/img/scr1.PNG)
