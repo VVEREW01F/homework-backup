@@ -30,10 +30,8 @@
 \```
 git config --global user.name "Artem Bazylev"
 git config --global user.email "arty.bazylev@gmail.com"
-
 eval "$(ssh-agent -s)"
 ssh-add ~/.ssh/id_rsa
-
 git add -A
 git commit -m "update-1"
 git push origin 
