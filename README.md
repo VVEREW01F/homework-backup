@@ -27,7 +27,7 @@
 
 ![Скриншот-1](https://github.com/VVEREW01F/homework-monitoring/blob/main/img/scr1.PNG)
 
-
+```bash
 git config --global user.name "Artem Bazylev"
 git config --global user.email "arty.bazylev@gmail.com"
 eval "$(ssh-agent -s)"
@@ -35,3 +35,4 @@ ssh-add ~/.ssh/id_rsa
 git add -A
 git commit -m "update-1"
 git push origin
+```
