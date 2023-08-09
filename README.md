@@ -1,4 +1,4 @@
-# Домашнее задание к занятию "`Git`" - `Bazylev Artem`
+# Домашнее задание к занятию "`Zabbix часть 1`" - `Bazylev Artem`
 
 
 ### Инструкция по выполнению домашнего задания
@@ -26,3 +26,15 @@
 
 
 ![Скриншот-1](https://github.com/VVEREW01F/homework-monitoring/blob/main/img/scr1.PNG)
+
+\```
+git config --global user.name "Artem Bazylev"
+git config --global user.email "arty.bazylev@gmail.com"
+
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_rsa
+
+git add -A
+git commit -m "update-1"
+git push origin 
+\```
