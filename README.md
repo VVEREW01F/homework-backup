@@ -47,3 +47,12 @@ git push origin
 git commit -am "update-2"
 git push origin
 ```
+
+### Задание 3
+
+![Скриншот-1](https://github.com/VVEREW01F/homework-zabbix-1/blob/main/img/scr5.PNG)
+
+```bash
+git commit -am "update-3"
+git push origin
+```
