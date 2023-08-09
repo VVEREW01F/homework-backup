@@ -25,7 +25,7 @@
 ### Задание 1
 
 
-![Скриншот-1](https://github.com/VVEREW01F/homework-monitoring/blob/main/img/scr1.PNG)
+![Скриншот-1](https://github.com/VVEREW01F/homework-zabbix-1/blob/main/img/scr1.PNG)
 
 ```bash
 git config --global user.name "Artem Bazylev"
@@ -34,5 +34,16 @@ eval "$(ssh-agent -s)"
 ssh-add ~/.ssh/id_rsa
 git add -A
 git commit -m "update-1"
+git push origin
+```
+
+### Задание 2
+
+![Скриншот-2](https://github.com/VVEREW01F/homework-zabbix-1/blob/main/img/scr2.PNG)
+![Скриншот-2](https://github.com/VVEREW01F/homework-zabbix-1/blob/main/img/scr3.PNG)
+![Скриншот-2](https://github.com/VVEREW01F/homework-zabbix-1/blob/main/img/scr4.PNG)
+
+```bash
+git commit -am "update-2"
 git push origin
 ```
