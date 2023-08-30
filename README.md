@@ -30,7 +30,7 @@
 ![Скриншот-2](https://github.com/VVEREW01F/homework-recovery/blob/main/img/scr3.PNG)
 ![Скриншот-2](https://github.com/VVEREW01F/homework-recovery/blob/main/img/scr4.PNG)
 
-![Файл pkt](https://github.com/VVEREW01F/homework-recovery/blob/main/file/hsrp_advanced_1.pkt)
+[Файл pkt](https://github.com/VVEREW01F/homework-recovery/blob/main/file/hsrp_advanced_1.pkt)
 
 
 ### Задание 2
@@ -42,6 +42,6 @@
 ![Скриншот-2](https://github.com/VVEREW01F/homework-recovery/blob/main/img/scr9.PNG)
 
 
-![Скриншот-2](https://github.com/VVEREW01F/homework-recovery/blob/main/file/keepalived-master.conf)
-![Скриншот-2](https://github.com/VVEREW01F/homework-recovery/blob/main/file/keepalived-bacup.conf)
-![Скриншот-2](https://github.com/VVEREW01F/homework-recovery/blob/main/file/check_nginx.sh)
+[keepalived-master](https://github.com/VVEREW01F/homework-recovery/blob/main/file/keepalived-master.conf)
+[keepalived-bacup](https://github.com/VVEREW01F/homework-recovery/blob/main/file/keepalived-bacup.conf)
+[check_nginx](https://github.com/VVEREW01F/homework-recovery/blob/main/file/check_nginx.sh)
