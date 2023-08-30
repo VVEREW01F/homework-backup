@@ -1,4 +1,4 @@
-# Домашнее задание к занятию "`Zabbix часть 1`" - `Bazylev Artem`
+# Домашнее задание к занятию "`Disaster recovery и Keepalived`" - `Bazylev Artem`
 
 
 ### Инструкция по выполнению домашнего задания
@@ -26,33 +26,22 @@
 
 
 ![Скриншот-1](https://github.com/VVEREW01F/homework-zabbix-1/blob/main/img/scr1.PNG)
-
-```bash
-git config --global user.name "Artem Bazylev"
-git config --global user.email "arty.bazylev@gmail.com"
-eval "$(ssh-agent -s)"
-ssh-add ~/.ssh/id_rsa
-git add -A
-git commit -m "update-1"
-git push origin
-```
-
-### Задание 2
-
 ![Скриншот-2](https://github.com/VVEREW01F/homework-zabbix-1/blob/main/img/scr2.PNG)
 ![Скриншот-2](https://github.com/VVEREW01F/homework-zabbix-1/blob/main/img/scr3.PNG)
 ![Скриншот-2](https://github.com/VVEREW01F/homework-zabbix-1/blob/main/img/scr4.PNG)
 
-```bash
-git commit -am "update-2"
-git push origin
-```
+![Файл pkt](https://github.com/VVEREW01F/homework-zabbix-1/blob/main/five/hsrp_advanced_1.pkt)
 
-### Задание 3
+
+### Задание 2
 
 ![Скриншот-1](https://github.com/VVEREW01F/homework-zabbix-1/blob/main/img/scr5.PNG)
+![Скриншот-2](https://github.com/VVEREW01F/homework-zabbix-1/blob/main/img/scr6.PNG)
+![Скриншот-2](https://github.com/VVEREW01F/homework-zabbix-1/blob/main/img/scr7.PNG)
+![Скриншот-2](https://github.com/VVEREW01F/homework-zabbix-1/blob/main/img/scr8.PNG)
+![Скриншот-2](https://github.com/VVEREW01F/homework-zabbix-1/blob/main/img/scr9.PNG)
 
-```bash
-git commit -am "update-3"
-git push origin
-```
+
+![Скриншот-2](https://github.com/VVEREW01F/homework-zabbix-1/blob/main/file/keepalived-master.conf)
+![Скриншот-2](https://github.com/VVEREW01F/homework-zabbix-1/blob/main/file/keepalived-bacup.conf)
+![Скриншот-2](https://github.com/VVEREW01F/homework-zabbix-1/blob/main/file/check_nginx.sh)
