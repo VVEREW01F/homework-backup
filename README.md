@@ -38,7 +38,4 @@
 ![Скриншот-2](https://github.com/VVEREW01F/homework-recovery/blob/main/img/scr4.PNG)
 
 
-
-[keepalived-master](https://github.com/VVEREW01F/homework-recovery/blob/main/file/keepalived-master.conf)
-[keepalived-bacup](https://github.com/VVEREW01F/homework-recovery/blob/main/file/keepalived-bacup.conf)
 [файл haproxy_http](https://github.com/VVEREW01F/homework-recovery/blob/main/file/haproxy_http.conf)
