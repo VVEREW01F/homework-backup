@@ -25,17 +25,17 @@
 ### Задание 1
 
 
-![Скриншот-1](https://github.com/VVEREW01F/homework-clustering//blob/main/img/scr1.PNG)
-![Скриншот-2](https://github.com/VVEREW01F/homework-clustering//blob/main/img/scr2.PNG)
+![Скриншот-1](https://github.com/VVEREW01F/homework-clustering/blob/main/img/scr1.PNG)
+![Скриншот-2](https://github.com/VVEREW01F/homework-clustering/blob/main/img/scr2.PNG)
 
 
-[Файл haproxy_tcp](https://github.com/VVEREW01F/hhomework-clustering//blob/main/file/haproxy_tcp.conf)
+[Файл haproxy_tcp](https://github.com/VVEREW01F/hhomework-clustering/blob/main/file/haproxy_tcp.conf)
 
 
 ### Задание 2
 
-![Скриншот-2](https://github.com/VVEREW01F/homework-clustering//blob/main/img/scr3.PNG)
-![Скриншот-2](https://github.com/VVEREW01F/homework-clustering//blob/main/img/scr4.PNG)
+![Скриншот-2](https://github.com/VVEREW01F/homework-clustering/blob/main/img/scr3.PNG)
+![Скриншот-2](https://github.com/VVEREW01F/homework-clustering/blob/main/img/scr4.PNG)
 
 
-[файл haproxy_http](https://github.com/VVEREW01F/homework-clustering//blob/main/file/haproxy_http.conf)
+[файл haproxy_http](https://github.com/VVEREW01F/homework-clustering/blob/main/file/haproxy_http.conf)
