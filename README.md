@@ -29,7 +29,6 @@
 ![Скриншот-2](https://github.com/VVEREW01F/homework-backup/blob/main/img/scr2.PNG)
 
 
-[Файл haproxy_tcp](https://github.com/VVEREW01F/homework-backup/blob/main/file/haproxy_tcp.conf)
 
 
 ### Задание 2
@@ -38,4 +37,5 @@
 ![Скриншот-2](https://github.com/VVEREW01F/homework-backup/blob/main/img/scr4.PNG)
 
 
-[файл haproxy_http](https://github.com/VVEREW01F/homework-backup/blob/main/file/haproxy_http.conf)
+[файл скрипта backup_script.sh](https://github.com/VVEREW01F/homework-backup/blob/main/file/backup_script.sh)
+[файл скрипта crontab](https://github.com/VVEREW01F/homework-backup/blob/main/file/cron.txt)
